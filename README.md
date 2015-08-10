@@ -26,6 +26,7 @@ It is an MVC (Model-View-Controller) framework so a brief understanding of MVC i
 14. [Compile Part 1](https://www.youtube.com/watch?v=FemQfKf03gY "Compile, Pre, Post")
 15. [Compile Part 2](https://www.youtube.com/watch?v=uV_YoyQhrJY "$compile")
 16. [Transclude](https://www.youtube.com/watch?v=A0mdSbdE7-E "Transclude")
+17. [Angularjs developers](https://www.chrisranjana.com/angularjs-developers.html)
 17. [Config, NgView and NgRoute](https://www.youtube.com/watch?v=ZtqzeYooMw4 "Config, NgView and NgRoute")
 18. [Route Params](https://www.youtube.com/watch?v=BmYVs4LY3OM "Route Params")
 19. [Custom Provider](https://www.youtube.com/watch?v=FemQfKf03gY "Custom Provider")
